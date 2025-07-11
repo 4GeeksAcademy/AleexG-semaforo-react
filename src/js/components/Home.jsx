@@ -67,7 +67,6 @@ const TrafficLight = () => {
 const Home = () => {
     return (
         <div className="text-center">
-            {/* Estos son los comentarios y elementos que ya estaban */}
             <h1 className="text-center mt-5">Hello Rigo!</h1>
             <p>
                 <img src={rigoImage} />
